@@ -1,27 +1,15 @@
-Diversion white-list
-# Samsung TV
 lcprd1.samsungcloudsolution.net
 d2r1yp2w7bby2u.cloudfront.net
-
-# LG
 static.clevertap.com
-
-#Google Maps and other Google services
 clients4.google.com 
 clients2.google.com
 android.clients.google.com
 reminders-pa.googleapis.com firestore.googleapis.com
 gstaticadssl.l.google.com
 googleapis.l.google.com
-
-#YouTube history
 s.youtube.com 
 video-stats.l.google.com
-
-#Android TV
 redirector.gvt1.com
-
-#Microsoft (Windows, Office, Skype, etc)
 www.msftncsi.com
 ipv6.msftncsi.com
 msftncsi.com
@@ -78,8 +66,6 @@ t0.ssl.ak.tiles.virtualearth.net
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
-
-#Apple
 itunes.apple.com
 s.mzstatic.com
 appleid.apple.com
@@ -91,19 +77,11 @@ www.apple.com
 www.appleiphonecell.com
 spclient.wg.spotify.com
 apresolve.spotify.com
-
-#DropBox
 dl.dropboxusercontent.com
 ns1.dropbox.com
 ns2.dropbox.com
-
-#NVIDIA
 gfwsl.geforce.com
-
-#Firefox
 tracking-protection.cdn.mozilla.net
-
-#PS5
 telemetry-console.api.playstation.com
 
 
