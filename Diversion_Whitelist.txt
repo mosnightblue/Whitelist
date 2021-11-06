@@ -66,6 +66,7 @@ t0.ssl.ak.tiles.virtualearth.net
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+umwatson.events.data.microsoft.com
 itunes.apple.com
 s.mzstatic.com
 appleid.apple.com
