@@ -85,8 +85,9 @@ ns2.dropbox.com
 gfwsl.geforce.com
 tracking-protection.cdn.mozilla.net
 telemetry-console.api.playstation.com
-
-
+unagi-na.amazon.com
+c.amazon-adsystem.com
+fls-na.amazon.com
 
 
 
