@@ -30,6 +30,7 @@ msedge.api.cdp.microsoft.com
 clientconfig.passport.net
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
+browser.pipe.aria.microsoft.com
 client-s.gateway.messenger.live.com
 arc.msn.com
 activity.windows.com
